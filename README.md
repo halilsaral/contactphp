@@ -21,7 +21,7 @@ This is a simple PHP application to send emails using the PHP `mail()` function.
 
 - git clone https://github.com/yourusername/contactphp.git
 
-2. Open `mail.php` and update the mail configuration parameters, such as the recipient email address and the subject line.
+2. Open `message.php` and update the mail configuration parameters, such as the recipient email address and the subject line.
 
 3. Ensure that your web server and SMTP server are properly configured to work with the PHP `mail()` function.
 
